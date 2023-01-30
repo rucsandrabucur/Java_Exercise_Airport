@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CursaInterna
+comment1.params=pret\ numarPasageri\ destinatie\ areEscala
+comment1.target=CursaInterna(double,\ int,\ java.lang.String,\ boolean)
+numComments=2

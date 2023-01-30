@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cursa
+comment1.params=pret\ numarPasageri\ destinatie\ areEscala
+comment1.target=Cursa(double,\ int,\ java.lang.String,\ boolean)
+comment10.params=areEscala
+comment10.target=void\ setAreEscala(boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ getPret()
+comment4.params=pret
+comment4.target=void\ setPret(double)
+comment5.params=
+comment5.target=int\ getNumarPasageri()
+comment6.params=numarPasageri
+comment6.target=void\ setNumarPasageri(int)
+comment7.params=
+comment7.target=java.lang.String\ getDestinatie()
+comment8.params=destinatie
+comment8.target=void\ setDestinatie(java.lang.String)
+comment9.params=
+comment9.target=boolean\ isAreEscala()
+numComments=11

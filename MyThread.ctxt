@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyThread
+comment1.params=shouldExit
+comment1.target=void\ setShouldExit(boolean)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
